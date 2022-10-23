@@ -1,4 +1,4 @@
-<h1>pizzaria website com Javascript<h1>
+<h1>a website basic with Javascript<h1>
 
 <h2> Neste projeto foi criando utilizando html+ css e javascript um projeto basico para estudos de um site de uma pizzaria </h2>
 
