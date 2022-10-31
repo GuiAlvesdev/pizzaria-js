@@ -1,6 +1,7 @@
 <h2>a basic landing page with Javascript vanilla <h2>
 
 <h3> Neste projeto foi criando utilizando html+ css e javascript um projeto basico para estudos de um site de uma pizzaria </h3>
+<h4> Basic project using Js Pure, Pizza Website</h4>
 
 <h3> Tecnologias usadas<h3>
 
